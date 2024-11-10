@@ -1,4 +1,5 @@
-# Customer Segmentation for a Store
+# Customer Segmentation for a Store (with Python)
+See the notebook of this project [here](customer_segmentation.ipynb)
 
 ## 1. Description
 
