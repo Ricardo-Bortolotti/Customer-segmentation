@@ -71,10 +71,10 @@ Group 4 (orange):
 ## 5. Some visualizations of the solution
 
 A 3D scatterplot of the clustering:
-
+![](3d_scatterplot.png)
 
 2D scatterplot to illustrate the cluster's separation in different Incomes and monetary Spents:
-
+![](spent_income.png)
 
 ## 6. Source (dataset link)
 
