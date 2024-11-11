@@ -44,27 +44,27 @@ The following pipeline was used for the solution:
 
 I divided the customers into 5 groups according to their information and purchasing behaviors. These five groups have the following features:
 
-Group 0 (Blue)
-+ Customers in this cluster have a relatively low income and low monetary spending.
-+ They do not make many purchases.
-+ Many have one or more children, and they are not particularly inclined to accept campaigns.
-
-Group 1 (Green)
-+ Customers in this cluster have a relatively high income and monetary spending.
-+ They prefer web purchases.
-+ Some are receptive to campaigns, and many have one child.
-
-Group 2 (Red):
+Group 0 (Red):
 + This cluster consists of customers with an intermediary income and monetary spending.
 + They prefer both store and web purchases.
 + Most have one or more children, and they are not very likely to accept campaigns.
 
-Group 3 (pink):
+Group 2 (Pink):
 + This cluster includes younger individuals with very low income, low frequency, and low monetary spending.
 + They make relatively small purchases.
 + Most have one child, and they are not receptive to campaigns.
 
-Group 4 (orange): 
+Group 1 (Blue)
++ Customers in this cluster have a relatively low income and low monetary spending.
++ They do not make many purchases.
++ Many have one or more children, and they are not particularly inclined to accept campaigns.
+
+Group 3 (Green)
++ Customers in this cluster have a relatively high income and monetary spending.
++ They prefer web purchases.
++ Some are receptive to campaigns, and many have one child.
+
+Group 4 (Orange): 
 + These customers have a very high average income, moderate frequency and vary high monetary spending.
 + They prefer in-store and catalog purchases and tend to visit the web less frequently.
 + They are open to accepting campaign offers and typically have no children.
