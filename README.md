@@ -69,7 +69,7 @@ Group 4 (orange):
 + They prefer in-store and catalog purchases and tend to visit the web less frequently.
 + They are open to accepting campaign offers and typically have no children.
 
-## 5. Some visualizations of the solution
+## 6. Some visualizations of the solution
 
 A 3D scatterplot of the clustering:
 ![](3d_scatterplot.png)
@@ -77,13 +77,13 @@ A 3D scatterplot of the clustering:
 2D scatterplot to illustrate the cluster's separation in different Incomes and monetary Spents:
 ![](spent_income.png)
 
-## 6. Source (dataset link)
+## 7. Source (dataset link)
 
 The dataset was collected from Kaggle.
 
 Link: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
-## 7. Contact me
+## 8. Contact me
 
 + Linkedin: https://www.linkedin.com/in/ricardo-bortolotti/
 
